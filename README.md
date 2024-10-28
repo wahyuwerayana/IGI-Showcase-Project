@@ -47,7 +47,7 @@
 | `InitiateIsland.cs` | When starting the game, randomized the island |
 | `etc` |  |
 
-## Contribution
+## 💡Contribution
 I am here acting as a Game Programmer, tasked with implementing all the mechanisms of this game, starting from generating random islands, building towers, enemies following waypoints, post processing using Unity Post Processing, etc.
 
 ## 👥The Team
